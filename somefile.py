@@ -1,4 +1,4 @@
-a = "Twice is awsome"
+a = "Twice is asdfsome"
 print (a)
 
 # git
